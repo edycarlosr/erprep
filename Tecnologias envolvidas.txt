@@ -1,0 +1,33 @@
+Tecnologias recomendadas para relizar o projeto ERP com todos os requisitos de um sistema robusto, seguro e moderno.
+
+
+Maven
+Apache Maven, ou Maven, é uma ferramenta de automação de compilação utilizada primariamente em projetos Java. Ela é similar à ferramenta Ant, mas é baseada em conceitos e trabalhos diferentes em um modo diferente.
+
+
+Git ou GitHub
+Git pronunciado [git] (ou pronunciado [dit] em inglês britânico) é um sistema de controle de versão distribuído e um sistema de gerenciamento de código fonte, com ênfase em velocidade.
+
+
+Eclipse
+Eclipse é um IDE para desenvolvimento Java, porém suporta várias outras linguagens
+
+
+JAVAEE
+Java Platform, Enterprise Edition (ou Java EE, ou EE, ou em português Plataforma Java, Edição Empresarial) é uma plataforma de programação para servidores na linguagem de programação Java.
+
+HTML5
+HTML5 é a mais recente evolução do padrão que define o HTML. O termo representa dois conceitos diferentes: É uma nova versão da linguagem HTML, com novos elementos, atributos, e comportamentos. e um conjunto maior de tecnologias que permite o desenvolvimento de aplicações e web sites mais diversos e poderosos.
+
+PrimeFaces
+PrimeFaces é uma biblioteca de componentes de interface de usuário de código aberto (UI) para aplicativos baseados em JavaServer Faces (JSF), criada por PrimeTek, [3] Turkey.
+
+JSF
+JavaServer Faces (JSF) é uma especificação Java para a construção de interfaces de usuário baseadas em componentes para aplicações web. Possui um modelo de programação dirigido a eventos, abstraindo os detalhes da manipulação dos eventos e organização dos componentes, permitindo que o programador se concentre na lógica da aplicação.
+
+CSS
+
+JavaScript
+
+
+
