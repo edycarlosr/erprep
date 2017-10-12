@@ -2,32 +2,41 @@ Tecnologias recomendadas para relizar o projeto ERP com todos os requisitos de u
 
 
 Maven
-Apache Maven, ou Maven, È uma ferramenta de automaÁ„o de compilaÁ„o utilizada primariamente em projetos Java. Ela È similar ‡ ferramenta Ant, mas È baseada em conceitos e trabalhos diferentes em um modo diferente.
+Apache Maven, ou Maven, √© uma ferramenta de automa√ß√£o de compila√ß√£o utilizada primariamente em projetos Java. Ela √© similar √† ferramenta Ant, mas √© baseada em conceitos e trabalhos diferentes em um modo diferente.
 
 
 Git ou GitHub
-Git pronunciado [git] (ou pronunciado [dit] em inglÍs brit‚nico) È um sistema de controle de vers„o distribuÌdo e um sistema de gerenciamento de cÛdigo fonte, com Ínfase em velocidade.
+Git pronunciado [git] (ou pronunciado [dit] em ingl√™s brit√¢nico) √© um sistema de controle de vers√£o distribu√≠do e um sistema de gerenciamento de c√≥digo fonte, com √™nfase em velocidade.
 
 
 Eclipse
-Eclipse È um IDE para desenvolvimento Java, porÈm suporta v·rias outras linguagens
+Eclipse √© um IDE para desenvolvimento Java, por√©m suporta v√°rias outras linguagens
 
 
 JAVAEE
-Java Platform, Enterprise Edition (ou Java EE, ou EE, ou em portuguÍs Plataforma Java, EdiÁ„o Empresarial) È uma plataforma de programaÁ„o para servidores na linguagem de programaÁ„o Java.
+Java Platform, Enterprise Edition (ou Java EE, ou EE, ou em portugu√™s Plataforma Java, Edi√ß√£o Empresarial) √© uma plataforma de programa√ß√£o para servidores na linguagem de programa√ß√£o Java.
 
 HTML5
-HTML5 È a mais recente evoluÁ„o do padr„o que define o HTML. O termo representa dois conceitos diferentes: … uma nova vers„o da linguagem HTML, com novos elementos, atributos, e comportamentos. e um conjunto maior de tecnologias que permite o desenvolvimento de aplicaÁıes e web sites mais diversos e poderosos.
+HTML5 √© a mais recente evolu√ß√£o do padr√£o que define o HTML. O termo representa dois conceitos diferentes: √â uma nova vers√£o da linguagem HTML, com novos elementos, atributos, e comportamentos. e um conjunto maior de tecnologias que permite o desenvolvimento de aplica√ß√µes e web sites mais diversos e poderosos.
 
 PrimeFaces
-PrimeFaces È uma biblioteca de componentes de interface de usu·rio de cÛdigo aberto (UI) para aplicativos baseados em JavaServer Faces (JSF), criada por PrimeTek, [3] Turkey.
+PrimeFaces √© uma biblioteca de componentes de interface de usu√°rio de c√≥digo aberto (UI) para aplicativos baseados em JavaServer Faces (JSF), criada por PrimeTek, [3] Turkey.
 
 JSF
-JavaServer Faces (JSF) È uma especificaÁ„o Java para a construÁ„o de interfaces de usu·rio baseadas em componentes para aplicaÁıes web. Possui um modelo de programaÁ„o dirigido a eventos, abstraindo os detalhes da manipulaÁ„o dos eventos e organizaÁ„o dos componentes, permitindo que o programador se concentre na lÛgica da aplicaÁ„o.
+JavaServer Faces (JSF) √© uma especifica√ß√£o Java para a constru√ß√£o de interfaces de usu√°rio baseadas em componentes para aplica√ß√µes web. Possui um modelo de programa√ß√£o dirigido a eventos, abstraindo os detalhes da manipula√ß√£o dos eventos e organiza√ß√£o dos componentes, permitindo que o programador se concentre na l√≥gica da aplica√ß√£o.
+
+JBOSS
+JBoss √© um servidor de aplica√ß√£o baseado na plataforma JAVAEE e implementado completamente na linguagem de programa√ß√£o Java. Em virtude disso, ele pode ser usado em qualquer Sistema Operacional que suporte a referida linguagem.
+
+Banco de Dados (Portgres ou MySQL)
 
 CSS
 
 JavaScript
+
+JRebel (Opcional)
+
+
 
 
 
